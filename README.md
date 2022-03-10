@@ -179,14 +179,14 @@
 		</tr>
 		<tr>
 			<td align="center" valign="middle">24</td>
-			<td valign="middle">Idempotent matrix <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a target="_blank" href="#:~:text=Validation of Idempotent matrix">__refdown__</a></span></td>
+			<td valign="middle">Idempotent matrix</td>
 			<td align="center" valign="middle"><a target="_blank" href="/C++/Types of Matrix/Idempotent matrix.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Python/Types of Matrix/Idempotent matrix.py"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731664-c358d5f0-1ffc-40c3-8b2e-a8f6093f79ab.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Java/Types of Matrix/Idempotent matrix.java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
 		</tr>
 		<tr>
 			<td align="center" valign="middle">25</td>
-			<td valign="middle">Involutory matrix <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a target="_blank" href="#:~:text=Validation of Involutory matrix">__refdown__</a></span></td>
+			<td valign="middle">Involutory matrix</td>
 			<td align="center" valign="middle"><a target="_blank" href="/C++/Types of Matrix/Involutory matrix.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Python/Types of Matrix/Involutory matrix.py"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731664-c358d5f0-1ffc-40c3-8b2e-a8f6093f79ab.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Java/Types of Matrix/Involutory matrix.java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
@@ -280,14 +280,14 @@
 		</tr>
 		<tr>
 			<td align="center" valign="middle">38</td>
-			<td valign="middle">Validation of Idempotent matrix <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a target="_blank" href="#:~:text=Idempotent matrix">__refup__</a></span></td>
+			<td valign="middle">Validation of Idempotent matrix</td>
 			<td align="center" valign="middle"><a target="_blank" href="/C++/Matrix Validation/Validation of Idempotent matrix.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Python/Matrix Validation/Validation of Idempotent matrix.py"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731664-c358d5f0-1ffc-40c3-8b2e-a8f6093f79ab.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Java/Matrix Validation/Validation of Idempotent matrix.java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
 		</tr>
 		<tr>
 			<td align="center" valign="middle">39</td>
-			<td valign="middle">Validation of Involutory matrix <span style="text-decoration:underline;-webkit-text-decoration-skip:none;text-decoration-skip-ink:none;color:#1155cc;"><a target="_blank" href="#:~:text=Involutory matrix">__refup__</a></span></td>
+			<td valign="middle">Validation of Involutory matrix</td>
 			<td align="center" valign="middle"><a target="_blank" href="/C++/Matrix Validation/Validation of Involutory matrix.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Python/Matrix Validation/Validation of Involutory matrix.py"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731664-c358d5f0-1ffc-40c3-8b2e-a8f6093f79ab.png"/></a></td>
 			<td align="center" valign="middle"><a target="_blank" href="/Java/Matrix Validation/Validation of Involutory matrix.java"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731651-d5d046fe-cecb-4ab2-8fc8-9b2a9bb9c599.png"/></a></td>
