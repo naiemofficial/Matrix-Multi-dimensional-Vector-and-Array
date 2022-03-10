@@ -18,14 +18,16 @@ int main(){
             }
             cout << endl;
         }
-        
+        cout << A[0][1] << endl;
         cout << "Matrix: A" << endl;
         for (int row = 0; row < row_in; row++) {
             for (int col = 0; col < col_in; col++) {
                 cout << "\t" << A[row][col];
             }
             cout << endl;
+            delete[] A[row];
         }
+        delete[] A;
     } else {
         cout << "Error! A Matrix must have either 1 row and multple columns or multiple rows and multiple column.";
     }
