@@ -22,8 +22,8 @@
 		</tr>
 		<tr>
 			<td align="center" valign="middle">2</td>
-			<td valign="middle"><b><sub><sup>Matrix or 2D Vector - print using for loop</sup></sub></b></td>
-			<td align="center" valign="middle"><a target="_blank" href="/C++/Vector/Matrix or 2D Vector  - print using for loop.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
+			<td valign="middle"><b><sub><sup>Matrix or 2D Vector - define size and set values based on user input</sup></sub></b></td>
+			<td align="center" valign="middle"><a target="_blank" href="/C++/Vector/Matrix or 2D Vector - define size and set values based on user input.cpp"><img height="16px" src="https://user-images.githubusercontent.com/34242279/157731658-3ed009af-395d-4551-9159-12194f041f5c.png"/></a></td>
 			<td align="center" valign="middle"><img height="10px" src="https://user-images.githubusercontent.com/34242279/157758952-c15c1923-7102-43f5-926b-89aa2f52a96e.svg"></td>
 			<td align="center" valign="middle"><img height="10px" src="https://user-images.githubusercontent.com/34242279/157758952-c15c1923-7102-43f5-926b-89aa2f52a96e.svg"></td>
 		</tr>
